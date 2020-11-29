@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339844223739",
+    "firebase_url": "https://sabjiwala-3bccc.firebaseio.com",
+    "project_id": "sabjiwala-3bccc",
+    "storage_bucket": "sabjiwala-3bccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339844223739:android:42310fc56e5c2dc4ead65e",
+        "android_client_info": {
+          "package_name": "com.sabjiwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339844223739-n2v3iibbdosfhfagjdl7793fk63arnpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrHv-Tp1NnOg_HcjBKFA1qj6fLqzaIUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339844223739-n2v3iibbdosfhfagjdl7793fk63arnpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
